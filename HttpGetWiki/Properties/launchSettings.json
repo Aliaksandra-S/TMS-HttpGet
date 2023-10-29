@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HttpGetWiki": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    }
+  }
+}
